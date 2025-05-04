@@ -87,7 +87,7 @@ If you use this tutorial in your research or teaching, please cite:
   title = {Reinforcement Learning for Dynamic Pricing Tutorial},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/AminRoma/AAIB_Course_2025}
+  url = {https://github.com/AminRoma/AAIB_Course_DRL_2025}
 }
 ```
 
